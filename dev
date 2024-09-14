@@ -2,4 +2,4 @@
 
 # clang -o firevault ./src/main.c ./src/db_io.c
 
-go run main.go
+go run ./src/main.go

@@ -1,2 +1,2 @@
-# fire_vauit
-Nosql database written in C similar to firebase
+# fire_vault
+Nosql database written in C | Go similar to firebase
