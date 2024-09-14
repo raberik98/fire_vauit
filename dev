@@ -1,3 +1,5 @@
 #!/run/current-system/sw/bin/bash
 
-clang -o firevault ./src/main.c ./src/db_io.c
+# clang -o firevault ./src/main.c ./src/db_io.c
+
+go run main.go
