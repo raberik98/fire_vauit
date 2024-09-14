@@ -1,3 +1,3 @@
 #!/run/current-system/sw/bin/bash
 
-clang ./src/main.c -o main
+clang -o firevault ./src/main.c ./src/db_io.c
